@@ -1,0 +1,8 @@
+# SRC - mergerfs root path
+SRC = /mnt/root/
+# destination block devices for backup
+# linked by device s/n and volume folder letter
+6KLKJHGHS = ROOT
+Z3KJHGJHGVHJC = A
+ZKJHKJHKJHKJHK = B
+JPJGHJYGJYGTJK = C
